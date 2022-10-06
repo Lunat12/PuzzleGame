@@ -1,0 +1,511 @@
+fileFormatVersion: 2
+guid: 83ecfd093ee52094e94610c763e51380
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 76123044513191567
+    second: Clone Powered foward PickUp_0
+  - first:
+      213: 3784047813632436324
+    second: Clone Powered foward PickUp_1
+  - first:
+      213: 7525929752032031868
+    second: Clone Powered foward PickUp_2
+  - first:
+      213: -2571753915817114626
+    second: Clone Powered foward PickUp_3
+  - first:
+      213: 8581906335157676554
+    second: Clone Powered foward PickUp_4
+  - first:
+      213: -1313705609378149577
+    second: Clone Powered foward PickUp_5
+  - first:
+      213: -388213132507894087
+    second: Clone Powered foward PickUp_6
+  - first:
+      213: 8600772095612383043
+    second: Clone Powered foward PickUp_7
+  - first:
+      213: 1116073706504356518
+    second: Clone Powered foward PickUp_8
+  - first:
+      213: 4755076346943197980
+    second: Clone Powered foward PickUp_9
+  - first:
+      213: 334541199071844071
+    second: Clone Powered foward PickUp_10
+  - first:
+      213: -334675697345189609
+    second: Clone Powered foward PickUp_11
+  - first:
+      213: -2922591564894326801
+    second: Clone Powered foward PickUp_12
+  - first:
+      213: 7464988062873143761
+    second: Clone Powered foward PickUp_13
+  - first:
+      213: -1916271293688837007
+    second: Clone Powered foward PickUp_14
+  - first:
+      213: 1511948176909603384
+    second: Clone Powered foward PickUp_15
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Clone Powered foward PickUp_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3036
+        width: 761
+        height: 1012
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa56dbea43fbc4d4a8be66acce490c46
+      internalID: 76123044513191567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clone Powered foward PickUp_1
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 3036
+        width: 761
+        height: 1012
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d802ff8a63ac44f959cc4b162baf04
+      internalID: 3784047813632436324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clone Powered foward PickUp_2
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 3036
+        width: 761
+        height: 1012
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998ea1070f67eff4dba5462e78002b7c
+      internalID: 7525929752032031868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clone Powered foward PickUp_3
+      rect:
+        serializedVersion: 2
+        x: 2283
+        y: 3036
+        width: 761
+        height: 1012
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00667b356243ea14a97543a888ff8085
+      internalID: -2571753915817114626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clone Powered foward PickUp_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2024
+        width: 761
+        height: 1012
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48fbc5439ecfc8644b9c4d486e553161
+      internalID: 8581906335157676554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clone Powered foward PickUp_5
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 2024
+        width: 761
+        height: 1012
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a162f1fbb9f89e74ab5a6f36742ad781
+      internalID: -1313705609378149577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clone Powered foward PickUp_6
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 2024
+        width: 761
+        height: 1012
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56de1345acd99df40b170b158817a124
+      internalID: -388213132507894087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clone Powered foward PickUp_7
+      rect:
+        serializedVersion: 2
+        x: 2283
+        y: 2024
+        width: 761
+        height: 1012
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9b44c36b702c54c99d3381357e8232
+      internalID: 8600772095612383043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clone Powered foward PickUp_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1012
+        width: 761
+        height: 1012
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54edad3ce35758d49962a314bca4c812
+      internalID: 1116073706504356518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clone Powered foward PickUp_9
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 1012
+        width: 761
+        height: 1012
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c7409ece4a9e74eae2de90bb5c1b29
+      internalID: 4755076346943197980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clone Powered foward PickUp_10
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 1012
+        width: 761
+        height: 1012
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a307b1c85cc6664aaef855f9d33ff87
+      internalID: 334541199071844071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clone Powered foward PickUp_11
+      rect:
+        serializedVersion: 2
+        x: 2283
+        y: 1012
+        width: 761
+        height: 1012
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8206849bca691ec44944645848109710
+      internalID: -334675697345189609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clone Powered foward PickUp_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 761
+        height: 1012
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4621b2bc2e599174e91257a839472f8f
+      internalID: -2922591564894326801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clone Powered foward PickUp_13
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 0
+        width: 761
+        height: 1012
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da465ec28d4430b44835f7f7b3246300
+      internalID: 7464988062873143761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clone Powered foward PickUp_14
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 0
+        width: 761
+        height: 1012
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 660c47cf2fe10bd45bc2ccd28fcb7aec
+      internalID: -1916271293688837007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clone Powered foward PickUp_15
+      rect:
+        serializedVersion: 2
+        x: 2283
+        y: 0
+        width: 761
+        height: 1012
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7689d0915c540e740800fccee592eb28
+      internalID: 1511948176909603384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

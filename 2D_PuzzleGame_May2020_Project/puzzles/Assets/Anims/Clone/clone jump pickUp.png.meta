@@ -1,0 +1,607 @@
+fileFormatVersion: 2
+guid: 260d4b6727e402749a46abff3b519f9f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7397827545938586763
+    second: clone jump pickUp_0
+  - first:
+      213: 7011937385818227642
+    second: clone jump pickUp_1
+  - first:
+      213: -3447164576623166146
+    second: clone jump pickUp_2
+  - first:
+      213: -2212820030715084109
+    second: clone jump pickUp_3
+  - first:
+      213: -1223154883168682763
+    second: clone jump pickUp_4
+  - first:
+      213: -1213213971408449303
+    second: clone jump pickUp_5
+  - first:
+      213: -1545253661701228360
+    second: clone jump pickUp_6
+  - first:
+      213: 2457272020795726945
+    second: clone jump pickUp_7
+  - first:
+      213: 7934427430389204208
+    second: clone jump pickUp_8
+  - first:
+      213: -7408349876201439506
+    second: clone jump pickUp_9
+  - first:
+      213: -1335849517061812536
+    second: clone jump pickUp_10
+  - first:
+      213: -2769630641056637160
+    second: clone jump pickUp_11
+  - first:
+      213: -5144634914861081485
+    second: clone jump pickUp_12
+  - first:
+      213: -4962639907436259909
+    second: clone jump pickUp_13
+  - first:
+      213: -5408443701005181297
+    second: clone jump pickUp_14
+  - first:
+      213: 4011634413260023115
+    second: clone jump pickUp_15
+  - first:
+      213: 632941473255463825
+    second: clone jump pickUp_16
+  - first:
+      213: -7008865677126507873
+    second: clone jump pickUp_17
+  - first:
+      213: -8568301274749498190
+    second: clone jump pickUp_18
+  - first:
+      213: -4055885852753716867
+    second: clone jump pickUp_19
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: clone jump pickUp_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4040
+        width: 652
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2227376e36cffad42932404ddc99e8d1
+      internalID: 7397827545938586763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clone jump pickUp_1
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 4040
+        width: 652
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 154d96eb509e86549a8f0be3a36212ac
+      internalID: 7011937385818227642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clone jump pickUp_2
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 4040
+        width: 652
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c239707f9fa8f446adb0235efaf513a
+      internalID: -3447164576623166146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clone jump pickUp_3
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 4040
+        width: 652
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2e6325a7ac7e44e95c66c1731aac51
+      internalID: -2212820030715084109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clone jump pickUp_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3030
+        width: 652
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d801c4974203314f8d2e7f3eb63d417
+      internalID: -1223154883168682763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clone jump pickUp_5
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 3030
+        width: 652
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f9a277ad0403947abd3969b1def2a5
+      internalID: -1213213971408449303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clone jump pickUp_6
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 3030
+        width: 652
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6efbc2f4a9d49df4997da9337d4f119d
+      internalID: -1545253661701228360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clone jump pickUp_7
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 3030
+        width: 652
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21970aeb64b98c64586192fe95e0ba7a
+      internalID: 2457272020795726945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clone jump pickUp_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2020
+        width: 652
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa43f322a9d71aa4493eab7c69163f27
+      internalID: 7934427430389204208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clone jump pickUp_9
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 2020
+        width: 652
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d64dfa0ee17ba4590c4b3f18406f09
+      internalID: -7408349876201439506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clone jump pickUp_10
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 2020
+        width: 652
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330dcdc9ddd95a14683ceca02e763c0a
+      internalID: -1335849517061812536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clone jump pickUp_11
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 2020
+        width: 652
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736fc050b519cb049ab9da3efdfedbeb
+      internalID: -2769630641056637160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clone jump pickUp_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1010
+        width: 652
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a1cfd1ea4fc1146b56f08999bf7de5
+      internalID: -5144634914861081485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clone jump pickUp_13
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1010
+        width: 652
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2740eb5a09b3c049b783bbd1180788b
+      internalID: -4962639907436259909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clone jump pickUp_14
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 1010
+        width: 652
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5ee54c709a68e45b765abd168cf836
+      internalID: -5408443701005181297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clone jump pickUp_15
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 1010
+        width: 652
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a1389f1ce1fd34286b2df4755ee564
+      internalID: 4011634413260023115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clone jump pickUp_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 652
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc01f51c30833b648b3047bb5d9c7dbe
+      internalID: 632941473255463825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clone jump pickUp_17
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 0
+        width: 652
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3094732bbe844944aa7d74879748b18f
+      internalID: -7008865677126507873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clone jump pickUp_18
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 0
+        width: 652
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c7bd869d55d954999bccec5de037cf
+      internalID: -8568301274749498190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clone jump pickUp_19
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 0
+        width: 652
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32757dd9f515e5d4c8ef820a5547f8ab
+      internalID: -4055885852753716867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

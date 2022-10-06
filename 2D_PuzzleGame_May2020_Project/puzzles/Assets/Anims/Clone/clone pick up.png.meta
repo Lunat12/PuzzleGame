@@ -1,0 +1,607 @@
+fileFormatVersion: 2
+guid: 6a17a8cdf256fb241beba7fa61b2159a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9012685734308977463
+    second: clone pick up_0
+  - first:
+      213: 5235046373393706487
+    second: clone pick up_1
+  - first:
+      213: -8679357550958614003
+    second: clone pick up_2
+  - first:
+      213: -4983475680651220591
+    second: clone pick up_3
+  - first:
+      213: -8913944337773970249
+    second: clone pick up_4
+  - first:
+      213: -5913257460852273080
+    second: clone pick up_5
+  - first:
+      213: 6182035796236427993
+    second: clone pick up_6
+  - first:
+      213: -6479576316947509078
+    second: clone pick up_7
+  - first:
+      213: -2076105962359679874
+    second: clone pick up_8
+  - first:
+      213: 205072108186022574
+    second: clone pick up_9
+  - first:
+      213: 4079947976958617327
+    second: clone pick up_10
+  - first:
+      213: 4982848390556940160
+    second: clone pick up_11
+  - first:
+      213: 708910954513278136
+    second: clone pick up_12
+  - first:
+      213: -4842775658615811604
+    second: clone pick up_13
+  - first:
+      213: 1124449570827271362
+    second: clone pick up_14
+  - first:
+      213: -2623062598523051665
+    second: clone pick up_15
+  - first:
+      213: 6273218548914340847
+    second: clone pick up_16
+  - first:
+      213: -3381031954937812517
+    second: clone pick up_17
+  - first:
+      213: 2497388550898575678
+    second: clone pick up_18
+  - first:
+      213: 6639399263874950114
+    second: clone pick up_19
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: clone pick up_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4252
+        width: 753
+        height: 1063
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1451ca5ecad887042bd645159aa70f51
+      internalID: -9012685734308977463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clone pick up_1
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 4252
+        width: 753
+        height: 1063
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76c4cfc6946390408169dde91630391
+      internalID: 5235046373393706487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clone pick up_2
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 4252
+        width: 753
+        height: 1063
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d21b1ab882781b46a4e541a5b71c0c6
+      internalID: -8679357550958614003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clone pick up_3
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 4252
+        width: 753
+        height: 1063
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d17c83bc682074c9de06cb234d6963
+      internalID: -4983475680651220591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clone pick up_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3189
+        width: 753
+        height: 1063
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f4f5bc90b78904097507e0e35872d0
+      internalID: -8913944337773970249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clone pick up_5
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 3189
+        width: 753
+        height: 1063
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4409279088090c243bb496d23415c91a
+      internalID: -5913257460852273080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clone pick up_6
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 3189
+        width: 753
+        height: 1063
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330c99a21abc7ae4290e2468a9e984db
+      internalID: 6182035796236427993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clone pick up_7
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 3189
+        width: 753
+        height: 1063
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79160f1e18e24a4b8c2877ff679d028
+      internalID: -6479576316947509078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clone pick up_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2126
+        width: 753
+        height: 1063
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5337ddd0855dae46b8824b9666e6f93
+      internalID: -2076105962359679874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clone pick up_9
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 2126
+        width: 753
+        height: 1063
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89847951019e03d4c87be066f5792c87
+      internalID: 205072108186022574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clone pick up_10
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 2126
+        width: 753
+        height: 1063
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46759d6470cf4a04dbcd966cb4cee6b8
+      internalID: 4079947976958617327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clone pick up_11
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 2126
+        width: 753
+        height: 1063
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329c1d14166a2e34ba0de17309c58491
+      internalID: 4982848390556940160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clone pick up_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1063
+        width: 753
+        height: 1063
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72fe6b21365d3d249a9043c6fb913edd
+      internalID: 708910954513278136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clone pick up_13
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 1063
+        width: 753
+        height: 1063
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be68e003482039c4bb974f60239d5fa4
+      internalID: -4842775658615811604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clone pick up_14
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 1063
+        width: 753
+        height: 1063
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b7cf76bc6131c145b70a19d4563ab50
+      internalID: 1124449570827271362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clone pick up_15
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 1063
+        width: 753
+        height: 1063
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88a3a995611e59449377eede60803ee
+      internalID: -2623062598523051665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clone pick up_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 753
+        height: 1063
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959ee71af6bb9a045a6f566e88c486e4
+      internalID: 6273218548914340847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clone pick up_17
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 0
+        width: 753
+        height: 1063
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad92db9fe1ed8994dae1284dd28f961a
+      internalID: -3381031954937812517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clone pick up_18
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 0
+        width: 753
+        height: 1063
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27eabb079ff74d84eb8bed9c059ef7cc
+      internalID: 2497388550898575678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clone pick up_19
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 0
+        width: 753
+        height: 1063
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb7aae77107a1648b2a2cb60e4864dd
+      internalID: 6639399263874950114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

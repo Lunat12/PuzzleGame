@@ -1,0 +1,607 @@
+fileFormatVersion: 2
+guid: 1743ffcf937f69a4c97126ab88ffb0cf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8773211680852776364
+    second: ari jump pick up_0
+  - first:
+      213: 1445964374048359853
+    second: ari jump pick up_1
+  - first:
+      213: 7982555446073931498
+    second: ari jump pick up_2
+  - first:
+      213: -1278069025613731843
+    second: ari jump pick up_3
+  - first:
+      213: -2582758988507786982
+    second: ari jump pick up_4
+  - first:
+      213: -3478647383954945057
+    second: ari jump pick up_5
+  - first:
+      213: 5823182078312873315
+    second: ari jump pick up_6
+  - first:
+      213: -4052866755732678072
+    second: ari jump pick up_7
+  - first:
+      213: 4227835416838212898
+    second: ari jump pick up_8
+  - first:
+      213: -3536386339795110549
+    second: ari jump pick up_9
+  - first:
+      213: -3740337921670192467
+    second: ari jump pick up_10
+  - first:
+      213: 1468201643877324042
+    second: ari jump pick up_11
+  - first:
+      213: 556379606838629892
+    second: ari jump pick up_12
+  - first:
+      213: -5272417309281888457
+    second: ari jump pick up_13
+  - first:
+      213: -1887256488068874830
+    second: ari jump pick up_14
+  - first:
+      213: 1423317764063663008
+    second: ari jump pick up_15
+  - first:
+      213: -3104921653802208276
+    second: ari jump pick up_16
+  - first:
+      213: 7277406571774897207
+    second: ari jump pick up_17
+  - first:
+      213: 2589330648520711516
+    second: ari jump pick up_18
+  - first:
+      213: 7965089093960300403
+    second: ari jump pick up_19
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ari jump pick up_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4032
+        width: 661
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb2b9fd684053ce40ae5f4f57fb5676d
+      internalID: 8773211680852776364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ari jump pick up_1
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 4032
+        width: 661
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b836875458dc66045b8090dfabdc3207
+      internalID: 1445964374048359853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ari jump pick up_2
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 4032
+        width: 661
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bbddd0167f76084b8eb0604db00bb81
+      internalID: 7982555446073931498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ari jump pick up_3
+      rect:
+        serializedVersion: 2
+        x: 1983
+        y: 4032
+        width: 661
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8860eaa0693294593516a428599361
+      internalID: -1278069025613731843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ari jump pick up_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3024
+        width: 661
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385f8efe841a7584d90fa2f32a61489e
+      internalID: -2582758988507786982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ari jump pick up_5
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 3024
+        width: 661
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ac8968b98e4b54c9552a94c7be7176
+      internalID: -3478647383954945057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ari jump pick up_6
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 3024
+        width: 661
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd9d91f38484624e9cc39009fa26c76
+      internalID: 5823182078312873315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ari jump pick up_7
+      rect:
+        serializedVersion: 2
+        x: 1983
+        y: 3024
+        width: 661
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c178068bae7c643811be08bf1810c7
+      internalID: -4052866755732678072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ari jump pick up_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2016
+        width: 661
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1bd15dee9850874abd69173ff749e5f
+      internalID: 4227835416838212898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ari jump pick up_9
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 2016
+        width: 661
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667682dea38857b45bda7d531b7fef64
+      internalID: -3536386339795110549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ari jump pick up_10
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 2016
+        width: 661
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8adfb4cd92756d4ca25cec4b2f4b21f
+      internalID: -3740337921670192467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ari jump pick up_11
+      rect:
+        serializedVersion: 2
+        x: 1983
+        y: 2016
+        width: 661
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40f3217a4f64864dba9fbe71371745a
+      internalID: 1468201643877324042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ari jump pick up_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1008
+        width: 661
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942f1a916fd5b804fba105e5c4d7f12f
+      internalID: 556379606838629892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ari jump pick up_13
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 1008
+        width: 661
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3332d5fde61ae024a9025186e96731ba
+      internalID: -5272417309281888457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ari jump pick up_14
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 1008
+        width: 661
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4822e3ada414255409d578cdd16cecd9
+      internalID: -1887256488068874830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ari jump pick up_15
+      rect:
+        serializedVersion: 2
+        x: 1983
+        y: 1008
+        width: 661
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f128e09451b54f74392ca5fcf86e8de1
+      internalID: 1423317764063663008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ari jump pick up_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 661
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82cde920b75b13e46aa4df7034877d22
+      internalID: -3104921653802208276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ari jump pick up_17
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 0
+        width: 661
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359750fbf2e5515458824953918b0e87
+      internalID: 7277406571774897207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ari jump pick up_18
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 0
+        width: 661
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050fba544101cae42b6335c039e60f42
+      internalID: 2589330648520711516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ari jump pick up_19
+      rect:
+        serializedVersion: 2
+        x: 1983
+        y: 0
+        width: 661
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b215ded93e6e9684c99d85d69e364742
+      internalID: 7965089093960300403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

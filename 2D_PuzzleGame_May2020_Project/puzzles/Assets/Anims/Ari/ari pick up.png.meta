@@ -1,0 +1,607 @@
+fileFormatVersion: 2
+guid: 7050248e1489cd5499415a9c83dab3ea
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7926841284884370043
+    second: ari pick up_0
+  - first:
+      213: 386684614666787642
+    second: ari pick up_1
+  - first:
+      213: -3562367560367485360
+    second: ari pick up_2
+  - first:
+      213: -3917470944477722522
+    second: ari pick up_3
+  - first:
+      213: -4506692582745927521
+    second: ari pick up_4
+  - first:
+      213: 7398461836048777715
+    second: ari pick up_5
+  - first:
+      213: -1659081430918014237
+    second: ari pick up_6
+  - first:
+      213: -6027440633448096470
+    second: ari pick up_7
+  - first:
+      213: -921199746007255143
+    second: ari pick up_8
+  - first:
+      213: 6894987117714936834
+    second: ari pick up_9
+  - first:
+      213: -1904015949244729368
+    second: ari pick up_10
+  - first:
+      213: -2702926998749270805
+    second: ari pick up_11
+  - first:
+      213: 8825459933584722794
+    second: ari pick up_12
+  - first:
+      213: 5562322141614770949
+    second: ari pick up_13
+  - first:
+      213: 6846024493475222704
+    second: ari pick up_14
+  - first:
+      213: 6670005257381374232
+    second: ari pick up_15
+  - first:
+      213: 3709223426510268778
+    second: ari pick up_16
+  - first:
+      213: 5090336016642744022
+    second: ari pick up_17
+  - first:
+      213: -3292240912173089533
+    second: ari pick up_18
+  - first:
+      213: 7411321877098121212
+    second: ari pick up_19
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ari pick up_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4236
+        width: 766
+        height: 1059
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f1a471498f32fa47afaa606c6495cff
+      internalID: -7926841284884370043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ari pick up_1
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 4236
+        width: 766
+        height: 1059
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190b228695b114040988099559548d51
+      internalID: 386684614666787642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ari pick up_2
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 4236
+        width: 766
+        height: 1059
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ba912bf77e39f4a879651e3109831a
+      internalID: -3562367560367485360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ari pick up_3
+      rect:
+        serializedVersion: 2
+        x: 2298
+        y: 4236
+        width: 766
+        height: 1059
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2633b475004b97c45aa71d9d5b90fae7
+      internalID: -3917470944477722522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ari pick up_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3177
+        width: 766
+        height: 1059
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17cddda55b482094aaa86efa61d223e4
+      internalID: -4506692582745927521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ari pick up_5
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 3177
+        width: 766
+        height: 1059
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270a93852fbd77646a3a2a7bd7f509b9
+      internalID: 7398461836048777715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ari pick up_6
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 3177
+        width: 766
+        height: 1059
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f33be7d31b7194418fa923f8fb997bc
+      internalID: -1659081430918014237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ari pick up_7
+      rect:
+        serializedVersion: 2
+        x: 2298
+        y: 3177
+        width: 766
+        height: 1059
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532e9c3d45bfb0d47a108fffb8e9d99b
+      internalID: -6027440633448096470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ari pick up_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2118
+        width: 766
+        height: 1059
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177591162dce08540b450803d780b772
+      internalID: -921199746007255143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ari pick up_9
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 2118
+        width: 766
+        height: 1059
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f19d5e2f5d2444dad39b357916ad67
+      internalID: 6894987117714936834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ari pick up_10
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 2118
+        width: 766
+        height: 1059
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 020542b619d0a7941b4926f909bf9cc0
+      internalID: -1904015949244729368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ari pick up_11
+      rect:
+        serializedVersion: 2
+        x: 2298
+        y: 2118
+        width: 766
+        height: 1059
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dbec6ea661736b459cb2d7d2de0b6ef
+      internalID: -2702926998749270805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ari pick up_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1059
+        width: 766
+        height: 1059
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f47235e690c7f141b584cf374e8643f
+      internalID: 8825459933584722794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ari pick up_13
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 1059
+        width: 766
+        height: 1059
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caca755ab47eb2f4ba03e261e13861fb
+      internalID: 5562322141614770949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ari pick up_14
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 1059
+        width: 766
+        height: 1059
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4819182e90c964eae76a262280aeda
+      internalID: 6846024493475222704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ari pick up_15
+      rect:
+        serializedVersion: 2
+        x: 2298
+        y: 1059
+        width: 766
+        height: 1059
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a12a4410c255b44bb76c872a374ae3a
+      internalID: 6670005257381374232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ari pick up_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 766
+        height: 1059
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cacecabcc9ad54d4e81291e7ce39f212
+      internalID: 3709223426510268778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ari pick up_17
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 0
+        width: 766
+        height: 1059
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 013c600c514e2ea40aa2b9a1754100a1
+      internalID: 5090336016642744022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ari pick up_18
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 0
+        width: 766
+        height: 1059
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccbd9e1e8b5df3945b2d68a884d4f566
+      internalID: -3292240912173089533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ari pick up_19
+      rect:
+        serializedVersion: 2
+        x: 2298
+        y: 0
+        width: 766
+        height: 1059
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384ab4f02acc7cf488de4e6d15e46c39
+      internalID: 7411321877098121212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,607 @@
+fileFormatVersion: 2
+guid: 2aab764d292b13243b2347c4ac07cf92
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 59600536532937343
+    second: ari jump_0
+  - first:
+      213: 2441503943337967059
+    second: ari jump_1
+  - first:
+      213: 6634191323309470537
+    second: ari jump_2
+  - first:
+      213: -769432445658448559
+    second: ari jump_3
+  - first:
+      213: 5953330538117351709
+    second: ari jump_4
+  - first:
+      213: 7520006282538786018
+    second: ari jump_5
+  - first:
+      213: 108655265249464811
+    second: ari jump_6
+  - first:
+      213: 5562209715680510381
+    second: ari jump_7
+  - first:
+      213: 4192359275504733247
+    second: ari jump_8
+  - first:
+      213: -2651025276307220544
+    second: ari jump_9
+  - first:
+      213: 3186010272056904304
+    second: ari jump_10
+  - first:
+      213: 6889486293486588902
+    second: ari jump_11
+  - first:
+      213: -7192798043933551614
+    second: ari jump_12
+  - first:
+      213: 7754065551911622568
+    second: ari jump_13
+  - first:
+      213: -6193939906343062845
+    second: ari jump_14
+  - first:
+      213: -8263388984552172504
+    second: ari jump_15
+  - first:
+      213: -4244995735572465876
+    second: ari jump_16
+  - first:
+      213: 6727170912172343747
+    second: ari jump_17
+  - first:
+      213: 6266182937035671067
+    second: ari jump_18
+  - first:
+      213: -5503197249837353845
+    second: ari jump_19
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ari jump_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4032
+        width: 665
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d47481458d1b7c4196226aa4c2afc43
+      internalID: 59600536532937343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ari jump_1
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 4032
+        width: 665
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96dc37d3d4d25764aa9c873ade682417
+      internalID: 2441503943337967059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ari jump_2
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 4032
+        width: 665
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5d20e81b4d4c44bb875f7c551bb533
+      internalID: 6634191323309470537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ari jump_3
+      rect:
+        serializedVersion: 2
+        x: 1995
+        y: 4032
+        width: 665
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ecc1b28d5d0e2a4c91aea32ca4d78f1
+      internalID: -769432445658448559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ari jump_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3024
+        width: 665
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5595ecb57702dc847a4bcb36f08b5902
+      internalID: 5953330538117351709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ari jump_5
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 3024
+        width: 665
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5595e2eb2f6875645be238b679a01d67
+      internalID: 7520006282538786018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ari jump_6
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 3024
+        width: 665
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4689c7828d4d14b9b2d41ee20fdd33
+      internalID: 108655265249464811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ari jump_7
+      rect:
+        serializedVersion: 2
+        x: 1995
+        y: 3024
+        width: 665
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e41e1f5f2eb7db4c9c18f0c28b59bd9
+      internalID: 5562209715680510381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ari jump_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2016
+        width: 665
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3eefd25ff333d34da6809953b01fa5c
+      internalID: 4192359275504733247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ari jump_9
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 2016
+        width: 665
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f76e58e07149e143b68b55e6095a224
+      internalID: -2651025276307220544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ari jump_10
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 2016
+        width: 665
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b133717480bd6624a9744aee45e5f002
+      internalID: 3186010272056904304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ari jump_11
+      rect:
+        serializedVersion: 2
+        x: 1995
+        y: 2016
+        width: 665
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1ba5d68cd7dc94786727b24bf8aac0
+      internalID: 6889486293486588902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ari jump_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1008
+        width: 665
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3873879fa281704cb789f46e7558433
+      internalID: -7192798043933551614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ari jump_13
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1008
+        width: 665
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874698009b080314489944343f66a88e
+      internalID: 7754065551911622568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ari jump_14
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 1008
+        width: 665
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2079148e83509c44b930b491fb011dc7
+      internalID: -6193939906343062845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ari jump_15
+      rect:
+        serializedVersion: 2
+        x: 1995
+        y: 1008
+        width: 665
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596e091b9b396c84aa54e11b9229d359
+      internalID: -8263388984552172504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ari jump_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 665
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd176154872d925458c2a417699c659d
+      internalID: -4244995735572465876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ari jump_17
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 0
+        width: 665
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1494d3dc798a153499d1355ea8e7371b
+      internalID: 6727170912172343747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ari jump_18
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 0
+        width: 665
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c838794978a53cc49bdba2b1029e1910
+      internalID: 6266182937035671067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ari jump_19
+      rect:
+        serializedVersion: 2
+        x: 1995
+        y: 0
+        width: 665
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd28ffea8e33d2a44b15e7df811d8a4f
+      internalID: -5503197249837353845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
